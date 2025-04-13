@@ -8,12 +8,12 @@ const xmlString = `
     <livro id="2">
       <titulo>Dom Quixote</titulo>
       <autor>Miguel de Cervantes</autor>
-      <ano>1605</ano>
+      <ano>1615</ano>
     </livro>
     <livro id="3">
       <titulo>1984</titulo>
       <autor>George Orwell</autor>
-      <ano>1949</ano>
+      <ano>1950</ano>
     </livro>
   </livraria>
 `;
